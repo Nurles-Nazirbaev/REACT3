@@ -1,0 +1,19 @@
+header{
+    border: 1px solid;
+    display: flex;
+    background-color: rgb(43, 73, 162);
+    color: white;
+    justify-content: space-around;
+    align-items: center;
+}
+nav{
+    display: flex;
+    justify-content: space-between;
+    width: 300px;
+}
+.LoginBtn{
+    padding: 5px 20px;
+    border-radius: 20px;
+    border: none;
+    
+}
